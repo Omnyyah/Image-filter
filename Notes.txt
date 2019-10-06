@@ -1,0 +1,2 @@
+An endpoint URL for a running elastic beanstalk deployment:
+http://image-filter-project-dev.us-west-2.elasticbeanstalk.com/filteredimage?image_url=https://timedotcom.files.wordpress.com/2019/03/kitten-report.jpg
